@@ -11,4 +11,6 @@
 - Call directly the create.sh or via the alias
 - if want to merge with existing, use the `--merge` flag
 
+![Demo](demo.gif)
+
 (I got tired of forgetting to add .DS_Store to gitignore. Hence, the repo 🫡)
